@@ -38,11 +38,13 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 
 ## 📌 Selected Projects
 
-Project	Stack	Brief Description
-RealEst	Flutter · Firebase · ML	Cross-platform app that predicts rental cash-flow (±16 %); used daily by a local realtor.
-Rev’s / Panda POS	React · Node · PostgreSQL	End-to-end POS for two campus restaurants with Google Auth & i18n.
-Seatgull Backend	Rust · AWS	Ported Python services ➜ Rust (⚡ 13 % faster); GroupMe chatbot for class alerts.
-ML Playground	PyTorch · scikit-learn	Climate–COVID clustering, wildlife CNN detector, room-occupancy log-reg, and more.
+| Project | Stack | Brief Description |
+|---------|-------|-------------------|
+| **RealEst**        | Flutter · Firebase · ML | Cross-platform app that predicts rental cash-flow (±16 %); used daily by a local realtor. |
+| **Rev’s / Panda POS** | React · Node · PostgreSQL | End-to-end POS for two campus restaurants with Google Auth & i18n. |
+| **Seatgull Backend**  | Rust · AWS | Ported Python services ➜ Rust (⚡ 13 % faster); GroupMe chatbot for class alerts. |
+| **ML Playground**     | PyTorch · scikit-learn | Climate–COVID clustering, wildlife CNN detector, room-occupancy log-reg, and more. |
+
 
 ## 🛠 Tech Toolbox
 <p align="center"> <img src="https://skillicons.dev/icons?i=rust,python,cpp,ts,js,nodejs,react,nextjs,flutter,tailwind,docker,kubernetes,postgres,mongodb,redis,aws,gcp,firebase,linux,git,vscode,figma&theme=dark" alt="Tech stack icons"> </p>
