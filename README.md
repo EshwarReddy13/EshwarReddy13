@@ -24,9 +24,10 @@
 
 🚀  Founder & Lead Dev of Tassot — AI project-management SaaS
 
-🚧 Current Project (in development) — Tassot
+## 🚧 Current Project (in development) — Tassot
 <p align="center"> <a href="https://github.com/EshwarReddy13/Tassot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EshwarReddy13&repo=Tassot&theme=tokyonight&show_owner=true" alt="Tassot repo card"> </a> </p>
 Tassot is an AI-powered CRM & task-management platform that converts a single project goal into a full Kanban board, task tree, and timeline—in seconds.
+
 
 🔮 LLM-generated epics, tasks & subtasks
 
@@ -38,23 +39,26 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 
 <sub>Launching soon — follow the repo for updates ✨</sub>
 
-📌 Selected Projects
+## 📌 Selected Projects
+
 Project	Stack	Brief Description
 RealEst	Flutter · Firebase · ML	Cross-platform app that predicts rental cash-flow (±16 %); used daily by a local realtor.
 Rev’s / Panda POS	React · Node · PostgreSQL	End-to-end POS for two campus restaurants with Google Auth & i18n.
 Seatgull Backend	Rust · AWS	Ported Python services ➜ Rust (⚡ 13 % faster); GroupMe chatbot for class alerts.
 ML Playground	PyTorch · scikit-learn	Climate–COVID clustering, wildlife CNN detector, room-occupancy log-reg, and more.
 
-🛠 Tech Toolbox
+## 🛠 Tech Toolbox
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=rust,python,cpp,ts,js,nodejs,react,nextjs,flutter,tailwind,docker,kubernetes,postgres,mongodb,redis,aws,gcp,firebase,linux,git,vscode,figma&theme=dark" alt="Tech stack icons"> </p>
 🏆 GitHub Trophies 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EshwarReddy13&theme=tokyonight&margin-w=10&title=Commit,Stars,Followers,Repositories,PullRequest" alt="Trophy banner"> </p>
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EshwarReddy13&show_icons=true&theme=tokyonight&include_all_commits=true" width="420" alt="Stats">&nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshwarReddy13&theme=tokyonight" width="410" alt="Streak"><br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshwarReddy13&layout=compact&theme=tokyonight" width="320" alt="Top languages"> </p>
-🤝 Let’s Connect
+
+## 🤝 Let’s Connect
  	 
-✉️ Email	eshwarreddygadi13@gmail.com
-💼 LinkedIn	eshwar-reddy-8261a31ba
+✉️ Email	eshwarreddygadi13@gmail.com <br>
+💼 LinkedIn	eshwar-reddy-8261a31ba <br>
 🐦 Twitter / X	coming soon…
 
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"> </p>
