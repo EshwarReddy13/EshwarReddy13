@@ -40,10 +40,11 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 
 | Project | Stack | Brief Description |
 |---------|-------|-------------------|
-| **RealEst**        | Flutter · Firebase · ML | Cross-platform app that predicts rental cash-flow (±16 %); used daily by a local realtor. |
-| **Rev’s / Panda POS** | React · Node · PostgreSQL | End-to-end POS for two campus restaurants with Google Auth & i18n. |
-| **Seatgull Backend**  | Rust · AWS | Ported Python services ➜ Rust (⚡ 13 % faster); GroupMe chatbot for class alerts. |
-| **ML Playground**     | PyTorch · scikit-learn | Climate–COVID clustering, wildlife CNN detector, room-occupancy log-reg, and more. |
+| **[RealEst](https://github.com/Realest-TAMU-Capstone-Spring-2025/realest)** | Flutter · Firebase · ML | Cross-platform app that predicts rental cash-flow (±16 %); used daily by a local realtor. |
+| **[Rev’s / Panda POS](https://github.com/CSCE331-Fall2024/project-3-team-4s)** | React · Node · PostgreSQL | End-to-end POS for two campus restaurants with Google Auth & i18n. |
+| **[Seatgull Backend](https://github.com/EshwarReddy13/Seatgull-Backend)** | Rust · AWS | Ported Python services ➜ Rust (⚡ 13 % faster); GroupMe chatbot for class alerts. |
+| **[ML Playground](https://github.com/EshwarReddy13/Machine-Learning-Projects)** | PyTorch · scikit-learn | Climate–COVID clustering, wildlife CNN detector, room-occupancy log-reg, and more. |
+
 
 
 ## 🛠 Tech Toolbox
