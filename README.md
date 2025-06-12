@@ -16,14 +16,9 @@
 
 ## 🧑‍💻 About&nbsp;Me  
 
-while (true) {
-    buildProductsWithAI();
-    shipFastAndRefactorInRust();
-    sipCoffee();
-}
-🎓  Final-year Computer Science student at Texas A&M University
+🎓  Computer Science Graduate from Texas A&M University
 
-🛠  Daily drivers: Rust · Python · C++ · TypeScript
+🛠  Daily drivers: Rust · JavaScript · C++ 
 
 🏆  1st place — TAMU Hack 2022 (real-time A* AI bot)
 
