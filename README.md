@@ -27,7 +27,7 @@
 Tassot is an AI-powered CRM & task-management platform that converts a single project goal into a full Kanban board, task tree, and timeline—in seconds.
 
 <br>
-<br>
+
 
 🔮 LLM-generated epics, tasks & subtasks
 
@@ -40,7 +40,7 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 <sub>Launching soon — follow the repo for updates ✨</sub>
 
 <br>
-<br>
+
 
 ## 📌 Selected Projects
 
@@ -51,7 +51,6 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 | **[Seatgull Backend](https://github.com/EshwarReddy13/Seatgull-Backend)** | Rust · AWS | Ported Python services ➜ Rust (⚡ 13 % faster); GroupMe chatbot for class alerts. |
 | **[ML Playground](https://github.com/EshwarReddy13/Machine-Learning-Projects)** | PyTorch · scikit-learn | Climate–COVID clustering, wildlife CNN detector, room-occupancy log-reg, and more. |
 
-<br>
 <br>
 
 ## 🛠 Tech Toolbox
