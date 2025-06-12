@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Hi, I’m <strong>Eshwar&nbsp;Reddy&nbsp;Gadi</strong>!&nbsp;
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="wave">
@@ -15,52 +16,50 @@
 
 ## 🧑‍💻 About&nbsp;Me  
 
-```cpp
 while (true) {
     buildProductsWithAI();
     shipFastAndRefactorInRust();
     sipCoffee();
 }
-
 🎓  Final-year Computer Science student at Texas A&M University
 
-🛠  Daily drivers: Rust · Python · C++ · TypeScript
+🛠  Daily drivers: Rust · Python · C++ · TypeScript
 
 🏆  1st place — TAMU Hack 2022 (real-time A* AI bot)
 
 🚀  Founder & Lead Dev of Tassot — AI project-management SaaS
 
-🚧 Current Project (in development) — Tassot
+🚧 Current Project (in development) — Tassot
 <p align="center"> <a href="https://github.com/EshwarReddy13/Tassot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EshwarReddy13&repo=Tassot&theme=tokyonight&show_owner=true" alt="Tassot repo card"> </a> </p>
-Tassot is an AI-powered CRM & task-management platform that converts a single project goal into a fully-fledged Kanban board, task list, and roadmap — in seconds.
+Tassot is an AI-powered CRM & task-management platform that converts a single project goal into a full Kanban board, task tree, and timeline—in seconds.
 
 🔮 LLM-generated epics, tasks & subtasks
 
-🤝 Realtime collaboration (WebSockets)
+🤝 Real-time collaboration (WebSockets)
 
-🧩 Modular integrations: GitHub, Slack, Notion
+🧩 Plug-ins for GitHub, Slack, Notion
 
-☁️ Stack: Next.js · React · Rust micro-services · PostgreSQL · OpenAI
+☁️ Stack: Next.js • React • Rust micro-services • PostgreSQL • OpenAI
 
-<sub>Launching soon • Follow the repo for progress ✨</sub>
+<sub>Launching soon — follow the repo for updates ✨</sub>
 
 📌 Selected Projects
 Project	Stack	Brief Description
-RealEst	Flutter · Firebase · ML	Cross-platform app that predicts rental cash-flow (±16 %) and is now used daily by a local realtor.
-Rev’s / Panda POS	React · Node · PostgreSQL	End-to-end POS for two campus restaurants with Google Auth & i18n support.
-Seatgull Backend	Rust · AWS	Migrated Python services ➜ Rust (⚡ 13 % faster); built a GroupMe bot for class alerts.
-ML Playground	PyTorch · scikit-learn	Portfolio of ML experiments: climate-COVID clustering, wildlife CNN detector, room-occupancy logistic regression.
+RealEst	Flutter · Firebase · ML	Cross-platform app that predicts rental cash-flow (±16 %); used daily by a local realtor.
+Rev’s / Panda POS	React · Node · PostgreSQL	End-to-end POS for two campus restaurants with Google Auth & i18n.
+Seatgull Backend	Rust · AWS	Ported Python services ➜ Rust (⚡ 13 % faster); GroupMe chatbot for class alerts.
+ML Playground	PyTorch · scikit-learn	Climate–COVID clustering, wildlife CNN detector, room-occupancy log-reg, and more.
 
 🛠 Tech Toolbox
 <p align="center"> <img src="https://skillicons.dev/icons?i=rust,python,cpp,ts,js,nodejs,react,nextjs,flutter,tailwind,docker,kubernetes,postgres,mongodb,redis,aws,gcp,firebase,linux,git,vscode,figma&theme=dark" alt="Tech stack icons"> </p>
-🏆 GitHub Trophies  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/img/logo.svg" width="20">
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EshwarReddy13&theme=tokyonight&margin-w=10&title=Commit,Stars,Followers,Repositories,PullRequest" alt="Trophy"> </p>
+🏆 GitHub Trophies 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EshwarReddy13&theme=tokyonight&margin-w=10&title=Commit,Stars,Followers,Repositories,PullRequest" alt="Trophy banner"> </p>
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EshwarReddy13&show_icons=true&theme=tokyonight&include_all_commits=true" width="420" alt="Stats">&nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshwarReddy13&theme=tokyonight" width="410" alt="Streak"><br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshwarReddy13&layout=compact&theme=tokyonight" width="320" alt="Top languages"> </p>
-🤝 Let’s Connect
+🤝 Let’s Connect
  	 
-✉️ Email	<a href="mailto:eshwarreddygadi13@gmail.com">eshwarreddygadi13@gmail.com</a>
-💼 LinkedIn	<a href="https://linkedin.com/in/eshwar-reddy-8261a31ba">eshwar-reddy-8261a31ba</a>
+✉️ Email	eshwarreddygadi13@gmail.com
+💼 LinkedIn	eshwar-reddy-8261a31ba
 🐦 Twitter / X	coming soon…
 
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"> </p> <p align="center"><sub>Built with ❤️ &nbsp;in dark-mode Markdown.</sub></p> ```
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"> </p>
