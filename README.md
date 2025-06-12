@@ -20,8 +20,6 @@
 
 🛠  Daily drivers: Rust · JavaScript · C++ 
 
-🏆  1st place — TAMU Hack 2022 (real-time A* AI bot)
-
 🚀  Founder & Lead Dev of Tassot — AI project-management SaaS
 
 ## 🚧 Current Project (in development) — Tassot
@@ -50,15 +48,17 @@ ML Playground	PyTorch · scikit-learn	Climate–COVID clustering, wildlife CNN d
 ## 🛠 Tech Toolbox
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=rust,python,cpp,ts,js,nodejs,react,nextjs,flutter,tailwind,docker,kubernetes,postgres,mongodb,redis,aws,gcp,firebase,linux,git,vscode,figma&theme=dark" alt="Tech stack icons"> </p>
-🏆 GitHub Trophies 
+## 🏆 GitHub Trophies 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=EshwarReddy13&theme=tokyonight&margin-w=10&title=Commit,Stars,Followers,Repositories,PullRequest" alt="Trophy banner"> </p>
-📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EshwarReddy13&show_icons=true&theme=tokyonight&include_all_commits=true" width="420" alt="Stats">&nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshwarReddy13&theme=tokyonight" width="410" alt="Streak"><br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EshwarReddy13&layout=compact&theme=tokyonight" width="320" alt="Top languages"> </p>
 
 ## 🤝 Let’s Connect
- 	 
+
 ✉️ Email	eshwarreddygadi13@gmail.com <br>
+
 💼 LinkedIn	eshwar-reddy-8261a31ba <br>
+
 🐦 Twitter / X	coming soon…
 
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"> </p>
