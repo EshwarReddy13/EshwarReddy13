@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="wave">
 </h1>
 
-<p align="center"><em>AI-driven Product Architect • Intelligent Systems Product Lead • CS @ Texas&nbsp;A&amp;M </em></p>
+<p align="center"><em>AI-driven Product Architect • Intelligent Systems Product Lead • CS @ Texas&nbsp;A&amp;M University </em></p>
 
 <p align="center">
   <a href="https://github.com/EshwarReddy13"><img src="https://img.shields.io/github/followers/EshwarReddy13?label=GitHub&style=social" alt="GitHub followers"></a>&nbsp;&nbsp;
