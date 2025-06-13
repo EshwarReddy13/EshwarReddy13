@@ -78,11 +78,6 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="Machine Learning & AI">
 </p>
 
-### Big Data & Data Engineering
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spark,hadoop,kafka,airflow,snowflake,databricks&theme=dark" alt="Big Data & Data Engineering">
-</p>
-
 ### Database & Storage
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,mysql&theme=dark" alt="Database & Storage">
