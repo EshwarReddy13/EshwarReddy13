@@ -65,7 +65,7 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,rust,go,swift,dart,zig&theme=dark" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=python,c,cs,cpp,java,js,ts,rust,go,swift,dart,zig&theme=dark" alt="Programming Languages">
 </p>
 
 ### Web & Backend Frameworks
@@ -109,11 +109,11 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
   <img src="https://skillicons.dev/icons?i=vscode,figma,linux,postman,jupyter&theme=dark" alt="Tools">
 </p>
 
-<br>
+### Adobe Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ae,arch,au,ai,ps,pr&theme=dark" alt="Tools">
+</p>
 
-## 🛠 Tech Toolbox
-<br>
-<p align="center"> <img src="https://skillicons.dev/icons?i=rust,python,cpp,ts,js,nodejs,react,nextjs,flutter,tailwind,docker,kubernetes,postgres,mongodb,redis,aws,gcp,firebase,linux,git,vscode,figma&theme=dark" alt="Tech stack icons"> </p>
 <br>
 
 ## 🏆 GitHub Trophies 
