@@ -53,6 +53,63 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 
 <br>
 
+## 🛠️ Languages, Tools, and Technologies
+
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,csharp,cpp,java,js,ts,rust,go,swift,dart,zig&theme=dark" alt="Programming Languages">
+</p>
+
+### Web & Backend Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,django,fastapi,spring,nextjs,flask,express&theme=dark" alt="Web & Backend Frameworks">
+</p>
+![T3 Stack](https://img.shields.io/badge/-T3_Stack-000000?logo=typescript&logoColor=blue)
+![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white)
+
+### Machine Learning & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="Machine Learning & AI">
+</p>
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FD7E35?logo=hugging-face&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white)
+
+### Big Data & Data Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spark,hadoop,kafka,airflow,snowflake,databricks&theme=dark" alt="Big Data & Data Engineering">
+</p>
+![Delta Lake](https://img.shields.io/badge/-Delta_Lake-0E76A8?logo=delta-lake&logoColor=white)
+
+### Database & Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,mysql&theme=dark" alt="Database & Storage">
+</p>
+![Amazon S3](https://img.shields.io/badge/-Amazon_S3-569A31?logo=amazon-s3&logoColor=white)
+
+### DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,git,githubactions,jenkins&theme=dark" alt="DevOps & Cloud">
+</p>
+
+### Software Development & Best Practices
+![OOP](https://img.shields.io/badge/-OOP-000000?logo=codeigniter&logoColor=white)
+![UML](https://img.shields.io/badge/-UML-000000?logo=uml&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-000000?logo=circleci&logoColor=white)
+![Web3](https://img.shields.io/badge/-Web3-000000?logo=web3dotjs&logoColor=white)
+![Zero Trust Security](https://img.shields.io/badge/-Zero_Trust_Security-000000?logo=cloudflare&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-000000?logo=apache&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-000000?logo=serverless&logoColor=white)
+![Agile](https://img.shields.io/badge/-Agile-000000?logo=trello&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-000000?logo=jira&logoColor=white)
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,postman,jupyter&theme=dark" alt="Tools">
+</p>
+
+<br>
+
 ## 🛠 Tech Toolbox
 <br>
 <p align="center"> <img src="https://skillicons.dev/icons?i=rust,python,cpp,ts,js,nodejs,react,nextjs,flutter,tailwind,docker,kubernetes,postgres,mongodb,redis,aws,gcp,firebase,linux,git,vscode,figma&theme=dark" alt="Tech stack icons"> </p>
