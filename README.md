@@ -54,11 +54,6 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 <br>
 
 ## 📊 GitHub Stats
-<br>
-
-📌 **Total Commits:** ![Total Commits](https://img.shields.io/badge/Total%20Commits-500%2B-blue?style=for-the-badge&logo=github)  
-📌 **Public Repositories:** ![Repositories](https://img.shields.io/badge/Public%20Repositories-26-green?style=for-the-badge&logo=github)  
-📌 **Total Contributions:** ![Contributions](https://img.shields.io/badge/Total%20Contributions-1000%2B-purple?style=for-the-badge&logo=github)  
 
 <br>
 
