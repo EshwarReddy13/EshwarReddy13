@@ -90,7 +90,7 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 
 ### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,postman,,arch,jupyter&theme=dark" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,linux,postman,arch,jupyter&theme=dark" alt="Tools">
 </p>
 
 ### Adobe Tools
