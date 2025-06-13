@@ -64,27 +64,34 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,nodejs,django,fastapi,spring,nextjs,flask,express&theme=dark" alt="Web & Backend Frameworks">
 </p>
+
 ![T3 Stack](https://img.shields.io/badge/-T3_Stack-000000?logo=typescript&logoColor=blue)
+
 ![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white)
 
 ### Machine Learning & AI
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="Machine Learning & AI">
 </p>
+
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FD7E35?logo=hugging-face&logoColor=white)
+
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white)
 
 ### Big Data & Data Engineering
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spark,hadoop,kafka,airflow,snowflake,databricks&theme=dark" alt="Big Data & Data Engineering">
 </p>
+
 ![Delta Lake](https://img.shields.io/badge/-Delta_Lake-0E76A8?logo=delta-lake&logoColor=white)
 
 ### Database & Storage
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,mysql&theme=dark" alt="Database & Storage">
 </p>
+
 ![Amazon S3](https://img.shields.io/badge/-Amazon_S3-569A31?logo=amazon-s3&logoColor=white)
 
 ### DevOps & Cloud
