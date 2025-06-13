@@ -88,17 +88,6 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,git,githubactions,jenkins&theme=dark" alt="DevOps & Cloud">
 </p>
 
-### Software Development & Best Practices
-![OOP](https://img.shields.io/badge/-OOP-000000?logo=codeigniter&logoColor=white)
-![UML](https://img.shields.io/badge/-UML-000000?logo=uml&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-000000?logo=circleci&logoColor=white)
-![Web3](https://img.shields.io/badge/-Web3-000000?logo=web3dotjs&logoColor=white)
-![Zero Trust Security](https://img.shields.io/badge/-Zero_Trust_Security-000000?logo=cloudflare&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-000000?logo=apache&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-000000?logo=serverless&logoColor=white)
-![Agile](https://img.shields.io/badge/-Agile-000000?logo=trello&logoColor=white)
-![Scrum](https://img.shields.io/badge/-Scrum-000000?logo=jira&logoColor=white)
-
 ### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,linux,postman,jupyter&theme=dark" alt="Tools">
