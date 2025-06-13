@@ -57,7 +57,7 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EshwarReddy13&show_icons=true&theme=tokyonight&include_all_commits=true" width="420" alt="Stats">&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshwarReddy13&theme=tokyonight" width="410" alt="Streak"><br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EshwarReddy13&show_icons=true&theme=tokyonight&include_all_commits=true" width="420" alt="Stats">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshwarReddy13&theme=tokyonight" width="410" alt="Streak"><br>
 
 <br>
 
@@ -65,7 +65,7 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,psql,cpp,java,js,ts,rust,go,swift,dart,zig&theme=dark" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,rust,go,swift,dart,zig&theme=dark" alt="Programming Languages">
 </p>
 
 ### Web & Backend Frameworks
@@ -75,7 +75,7 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 
 ### Machine Learning & AI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,openai,huggingface,langchain,sklearn&theme=dark" alt="Machine Learning & AI">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" alt="Machine Learning & AI">
 </p>
 
 ### Big Data & Data Engineering
