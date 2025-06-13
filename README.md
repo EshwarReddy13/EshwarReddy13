@@ -57,7 +57,7 @@ Tassot is an AI-powered CRM & task-management platform that converts a single pr
 
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EshwarReddy13&show_icons=true&theme=tokyonight&include_all_commits=true" width="420" alt="Stats">&nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshwarReddy13&theme=tokyonight" width="410" alt="Streak"><br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EshwarReddy13&show_icons=true&theme=tokyonight&include_all_commits=true" width="420" alt="Stats">&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshwarReddy13&theme=tokyonight" width="410" alt="Streak"><br>
 
 <br>
 
