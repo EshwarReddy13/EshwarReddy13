@@ -4,45 +4,16 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="wave">
 </h1>
 
-<p align="center"><em>AI-driven Product Architect • Intelligent Systems Product Lead • CS @ Texas&nbsp;A&amp;M University </em></p>
 
 <p align="center">
   <a href="https://github.com/EshwarReddy13"><img src="https://img.shields.io/github/followers/EshwarReddy13?label=GitHub&style=social" alt="GitHub followers"></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/eshwar-reddy-8261a31ba"><img src="https://img.shields.io/badge/Linked-In-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
   <a href="mailto:eshwarreddygadi13@gmail.com"><img src="https://img.shields.io/badge/Email-Me-d14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## 🧑‍💻 About&nbsp;Me  
 
-🎓  Computer Science Graduate from Texas A&M University
-
-🛠  Daily drivers: Rust · JavaScript · C++ 
-
-🚀  Founder & Lead Dev of Tassot — AI project-management SaaS
-<br>
-## 🚧 Current Project (in development) — Tassot
-<p align="center"> <a href="https://github.com/EshwarReddy13/Tassot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=EshwarReddy13&repo=Tassot&theme=tokyonight&show_owner=true" alt="Tassot repo card"> </a> </p>
-Tassot is an AI-powered CRM & task-management platform that converts a single project goal into a full Kanban board, task tree, and timeline—in seconds.
-
-<br>
-
-
-🔮 LLM-generated epics, tasks & subtasks
-
-🤝 Real-time collaboration (WebSockets)
-
-🧩 Plug-ins for GitHub, Slack, Notion
-
-☁️ Stack: Next.js • React • Rust micro-services • PostgreSQL • OpenAI
-
-<sub>Launching soon — follow the repo for updates ✨</sub>
-
-<br>
-
-
-## 📌 Selected Projects
+## 📌 Projects
 
 | Project | Stack | Brief Description |
 |---------|-------|-------------------|
